@@ -2,7 +2,7 @@
 
 This is an interactive automated scheduling program that generates employee work schedules using Python for backend, and React.js and Flask for frontend. The program will ultimately produce two different Excel files: a **weekly** work schedule and **daily** work schedule.
 
-While there are plenty of existing scheduling tools, they come with upfront costs to use. This program is entirely free! (I also wanted to take on the challenge of creating my own Python program, coming from a non-CS background and limited programming skills.)
+While there are plenty of existing scheduling tools, they come with upfront costs to use. This program is entirely free! (I also wanted to take on the challenge of creating my own Python-driven web application, coming from a non-CS background and limited programming skills.)
 
 The objective of this program is to generate an **Excel file containing a master weekly work schedule**. Based on business demands and special events/holidays, the program will determine the appropriate number of employees needed at a specific hour to ensure smooth business operations. This program will equitably schedule employees based on their availability, performance, and requested days off.
 
