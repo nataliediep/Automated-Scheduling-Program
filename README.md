@@ -1,6 +1,6 @@
 # Natalie's Automated Scheduling Program
 
-This is an interactive automated scheduling program that generates employee work schedules, built using Python. The program will ultimately produce two different Excel files: a **weekly** work schedule and **daily** work schedule.
+This is an interactive automated scheduling program that generates employee work schedules using Python for backend, and React.js and Flask for frontend. The program will ultimately produce two different Excel files: a **weekly** work schedule and **daily** work schedule.
 
 While there are plenty of existing scheduling tools, they come with upfront costs to use. This program is entirely free! I also wanted to take on the challenge of creating my own Python program, coming from a non-CS background and limited programming skills.)
 
