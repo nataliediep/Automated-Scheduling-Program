@@ -13,6 +13,7 @@ This program was built to be used by the USC Bookstore's scheduling team. With t
 1. Generates an Excel file containing a weekly work schedule for all employees.
 2. Indicate specific dates/times when more employees will be needed.
 3. An adjustable "bias" feature that will more or less take into consideration an employee's performance rating. Can be turned on or off.
+4. **An interactive, easy to use UI that allows manual user inputs.**
 
 
 ## How to use this program
